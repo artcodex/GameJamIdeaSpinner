@@ -1,0 +1,23 @@
+# Version: 3.2.0.175 (d15-1: a04678c2)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/3.2.0.175/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/3.2.0.175/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/bin/Debug/ \
+	"/name:GameJam Idea Spinner" \
+	/profile:Xamarin.Mac \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.10 \
+	/profiling \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/assembly:/Users/abrenner/Projects/GameJamIdeaSpinner/packages/iTextSharp.5.5.11/lib/itextsharp.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	"/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/bin/Debug/GameJam Idea Spinner.exe" \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/mmp-cache \

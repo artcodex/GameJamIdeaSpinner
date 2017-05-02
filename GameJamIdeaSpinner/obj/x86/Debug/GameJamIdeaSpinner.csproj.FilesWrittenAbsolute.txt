@@ -1,0 +1,14 @@
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/actool/partial-info.plist
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/actool/asset-manifest.plist
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/bin/Debug/GameJam Idea Spinner.exe.mdb
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/bin/Debug/GameJam Idea Spinner.exe
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/GameJam Idea Spinner.exe
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/obj/x86/Debug/GameJam Idea Spinner.exe.mdb
+/Users/abrenner/Projects/GameJamIdeaSpinner/GameJamIdeaSpinner/bin/Debug/itextsharp.dll
